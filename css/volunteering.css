@@ -157,14 +157,13 @@ footer {
 }
 
 @media screen and (min-width:800px) {
-
   .nav_links {
     display: flex;
   }
-
   .nav_links ul {
     display: flex;
     list-style: none;
     margin: 20px 0px;
   }
+
 }
