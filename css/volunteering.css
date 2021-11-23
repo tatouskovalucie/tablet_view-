@@ -50,8 +50,7 @@ a.skip:focus{
   color: black;
   text-decoration: underline;
 }
-
-.nav_links .current {
+.nav_links .current{
   background-color: transparent;
   text-decoration: underline;
 }

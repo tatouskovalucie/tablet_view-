@@ -27,31 +27,31 @@
   
   }
   
-  .nav_links {
-    margin: auto;
-    width: fit-content;
-    text-align: center;
-  }
-  
-  .nav_links ul li {
-    margin: 8px;
-  }
-  
-  .nav_links ul li a {
-    text-decoration: none;
-    color: black;
-    padding: 8px 25px;
-  }
-  
-  .nav_links ul li a:hover {
-    background-color: transparent;
-    color: black;
-    text-decoration: underline;
-  }
-  .nav_links .current{
-    background-color: transparent;
-    text-decoration: underline;
-  }
+.nav_links {
+  margin: auto;
+  width: fit-content;
+  text-align: center;
+}
+
+.nav_links ul li {
+  margin: 8px;
+}
+
+.nav_links ul li a {
+  text-decoration: none;
+  color: black;
+  padding: 8px 25px;
+}
+
+.nav_links ul li a:hover {
+  background-color: transparent;
+  color: black;
+  text-decoration: underline;
+}
+.nav_links .current{
+  background-color: transparent;
+  text-decoration: underline;
+}
     
   .box{
     display: flex;
